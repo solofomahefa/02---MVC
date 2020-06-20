@@ -1,0 +1,70 @@
+.container{
+    width : 100%;
+    padding :30px 10px;
+}
+
+h1{
+    text-align : center;
+    font-weight : bold;
+}
+
+.enregistrement{
+    display:flex; 
+    width: 100%;
+}
+
+.info {
+    text-align: center;
+    width : 50%;
+}
+
+#errFirst{
+    color :red;
+    font-size : 11px;
+    text-align : left;
+}
+
+#errLast{
+    color :red;
+    font-size : 11px;
+    text-align : left;
+}
+
+#errAdr{
+    color :red;
+    font-size : 11px;
+    text-align : left;
+}
+
+#send{
+    
+}
+.list {
+    width : 70%;
+    text-align : center;
+}
+
+.btn {
+    padding: 8px 50px;
+}
+
+.form-group{
+    margin-bottom : 20px;
+}
+
+.table {
+    background-color: #212429;
+    color : white;
+    
+}
+.table th {
+    padding-right: 100px;
+}
+
+.table td {
+    text-align: left;    
+}
+
+.table tr{
+    border-bottom: 2px,  #e0cdb4;
+}
